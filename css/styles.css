@@ -1,0 +1,195 @@
+body {
+  font-family: 'Gloria Hallelujah', cursive;
+  text-align: center;
+  margin: 0;
+
+}
+
+h1 {
+  font-family: 'Permanent Marker', cursive;
+  font-size: 6.25rem;
+  margin: 10px auto 0 auto;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Permanent Marker', cursive;
+  font-size: 2.5rem;
+  margin-top: 0;
+  color: #66BFBF;
+}
+
+h3 {
+  font-family: 'Permanent Marker', cursive;
+  font-size: 2rem;
+  color: #11999E;
+}
+
+.footer-link {
+  color: #11999E;
+}
+
+.title {
+  font-family: 'Permanent Marker', cursive;
+  font-size: 6.25rem;
+  color: white;
+  line-height: 1.5;
+
+
+}
+
+.subtitle {
+  font-size: 2.5rem;
+  margin-top: 0;
+  color: white;
+  font-weight: normal;
+
+}
+
+.headercontainer {
+  width: 100%;
+  height: 517px;
+  margin: 0 auto;
+  position: relative;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-color: #5eb7b7;
+
+}
+
+.middlecontainer {
+  width: 100%;
+  margin-bottom: 0px;
+  margin-top: 50px;
+}
+
+.bottom-container {
+  width: 100%;
+  margin: 30px auto;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: #5eb7b7;
+
+
+}
+
+.footer {
+  width: 100%;
+  margin: 30px auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: white;
+
+
+}
+
+.footer-link {
+  text-decoration: none;
+  margin-right: 10px;
+
+
+}
+
+.bottomcloud {
+
+  position:absolute;
+  left: 250px;
+  bottom: 19.5rem;
+
+}
+
+.topcloud {
+
+  position:absolute;
+  right: 250px;
+  top: 3rem;
+
+}
+
+.mountain {
+  width: 50%;
+  margin: 0px auto 0px auto;
+
+}
+
+.skills-row {
+  width: 50%;
+  height: 200px;
+  margin: 30px auto 30px auto;
+  text-align: left;
+}
+
+.skills-row2 {
+  width: 50%;
+  height: 200px;
+  margin: 30px auto 30px auto;
+  text-align: left;
+}
+
+.skills-row3 {
+  width: 50%;
+  height: 170px;
+  margin: 30px auto 0px auto;
+  text-align: left;
+}
+
+.profile {
+  margin: 10px auto 10px auto;
+  border-radius: 50%;
+}
+
+.profile-intro {
+width: 50%;
+margin: 0px auto 30px auto;
+}
+
+.profile-intro-bottom {
+width: 50%;
+margin: 0px auto 30px auto;
+color: white;
+}
+
+.louis {
+  max-width: 50%;
+  border-radius: 50%;
+  float: left;
+  margin-right: 30px;
+}
+
+.louis2 {
+  max-width: 50%;
+  border-radius: 50%;
+  float:right;
+  margin-right: 30px;
+}
+
+.louis3 {
+  max-width: 50%;
+  border-radius: 50%;
+  float:left;
+  margin-right: 30px;
+}
+
+hr {
+  width: 100px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  border-top: 10px dotted #5eb7b7;
+  border-bottom: none;
+  border-right: none;
+  border-left: none;
+}
+
+.btn {
+width: 15%;
+margin: 0px auto 30px auto;
+background:    #ffffff;
+border-radius: 5px;
+padding:       8px 20px;
+color:         #5eb7b7;
+display:       inline-block;
+font:          24px/1 "Permanent Marker", cursive;
+text-align:    center;
+text-shadow:   1px 1px #ffffff;
+text-decoration: none;
+}
